@@ -13,6 +13,4 @@
 
 </div><br/>
 
-Estudando diariamente tecnologias novas
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intghp&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
