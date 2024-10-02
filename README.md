@@ -11,7 +11,7 @@
     <img align='center' alt='django' src='https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4' width=50 height=50>
     <img align='center' alt='django' src='https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f' width=50 height=50>
     <img align='center' alt='django' src='https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b' width=50 height=50>
-    <img align='center' alt='django' src='https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b](https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png' width=50 height=50>
+    <img align='center' alt='django' src='https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png' width=50 height=50>
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intghp&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
